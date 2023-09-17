@@ -127,9 +127,9 @@
     "print_host_webui": "",
     "printable_area": [
         "0x0",
-        "232x0",
-        "232x228",
-        "0x228"
+        "230x0",
+        "230x230",
+        "0x230"
     ],
     "printable_height": "265",
     "printer_model": "Generic Klipper Printer",
