@@ -123,7 +123,7 @@
     "resolution": "0.012",
     "role_based_wipe_speed": "1",
     "seam_gap": "2%",
-    "seam_position": "aligned",
+    "seam_position": "back",
     "single_extruder_multi_material_priming": "1",
     "skirt_distance": "1",
     "skirt_height": "2",
