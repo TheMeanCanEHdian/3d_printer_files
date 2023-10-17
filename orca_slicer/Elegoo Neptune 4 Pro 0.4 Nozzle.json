@@ -36,7 +36,7 @@
     "host_type": "octoprint",
     "inherits": "MyKlipper 0.4 nozzle",
     "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]",
-    "machine_end_gcode": "PRINT_END_UPDATED",
+    "machine_end_gcode": "PRINT_END",
     "machine_load_filament_time": "0",
     "machine_max_acceleration_e": [
         "5000",
@@ -107,7 +107,7 @@
         "0"
     ],
     "machine_pause_gcode": "PAUSE",
-    "machine_start_gcode": "M190 S0\nM109 S0 \nPRINT_START_UPDATED EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}",
+    "machine_start_gcode": "M190 S0\nM109 S0 \nPRINT_START EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] SIZE={first_layer_print_min[0]}_{first_layer_print_min[1]}_{first_layer_print_max[0]}_{first_layer_print_max[1]}",
     "machine_unload_filament_time": "0",
     "max_layer_height": [
         "0.32"
