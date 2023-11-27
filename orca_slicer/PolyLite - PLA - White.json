@@ -31,7 +31,7 @@
         "60"
     ],
     "default_filament_colour": [
-        "#3295BB"
+        "#E8E7EE"
     ],
     "during_print_exhaust_fan_speed": [
         "60"
@@ -67,7 +67,7 @@
         "4"
     ],
     "filament_cost": [
-        "29.99"
+        "21.99"
     ],
     "filament_density": [
         "1.24"
@@ -82,7 +82,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.94"
     ],
     "filament_is_support": [
         "0"
@@ -145,7 +145,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "PolyLite - PLA - Starlight Neptune"
+        "PolyLite - PLA - White"
     ],
     "filament_shrink": [
         "100%"
@@ -197,12 +197,12 @@
         "60"
     ],
     "inherits": "My Generic PLA",
-    "name": "PolyLite - PLA - Starlight Neptune",
+    "name": "PolyLite - PLA - White",
     "nozzle_temperature": [
-        "220"
+        "215"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "215"
     ],
     "nozzle_temperature_range_high": [
         "220"
